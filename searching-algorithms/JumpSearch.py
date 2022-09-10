@@ -29,7 +29,7 @@ element = int(input("Searched element: "))
 array.sort()  # sorting a list
 result = search(array, element)
 
-if  result == -1:
+if result == -1:
     print("There is no said element in a list.")
 else:
     print(f"Searched element is on index {result}.")
