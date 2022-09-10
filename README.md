@@ -12,7 +12,7 @@ For information on algorithms I am using [geeks for geeks algorithms](https://ww
 
 1. Download ZIP
 2. Extract
-3. Run **main.py**
+3. Run **[name of algorithm].py**
 
 ## My process
 
