@@ -18,6 +18,7 @@ array = [3, 1, 4, 5, 2, 0]  # list which will be searched for an element
 
 element = int(input("Searched element: "))
 
+array.sort()  # sorting a list
 result = search(array, element, 0, len(array)-1)
 
 if  result == -1:
