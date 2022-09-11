@@ -5,6 +5,7 @@
 def search(arr, el, low, high):
     # using probe position formula
     if low <= high and el >= arr[low] and el <= arr[high]:  # to make sure that indexes don't go out of range
+        # using formula to find position
         pos = low + ((el - arr[low]) * (high - low) // (arr[high] - arr[low]))
 
         if arr[pos] == el:
