@@ -15,6 +15,7 @@ def search(arr, el):
         if lastIndex >= n:
             return -1
 
+    # using a linear search to find an element
     for i in range(lastIndex, m):
         if arr[i] == el:
             return i
