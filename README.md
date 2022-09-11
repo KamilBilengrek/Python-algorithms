@@ -33,4 +33,4 @@ Contribution, issues and feature requests are welcome!
 ## License
 
 Copyright (c) 2022 Kamil Bilengrek  
-This project is [MIT](https://github.com/KamilBilengrek/Sorting-app/blob/main/LICENSE.txt) licensed
+This project is [MIT](https://github.com/KamilBilengrek/Python-algorithms/blob/master/LICENSE.txt) licensed
