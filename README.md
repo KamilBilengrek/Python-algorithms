@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hello!
+Hello!  
 I decided to start this project to learn basic algorithms and their implementations. The project with contain many various algorithms like sorting, finding, cryptography etc.  
 Main reason to start this project is willingness to optimize future programs using said algorithms.
 
