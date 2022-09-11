@@ -1,5 +1,5 @@
 # Interpolation search
-# Time complexity:
+# Time complexity: O(log2(log2 n))
 
 
 def search(arr, el, low, high):
