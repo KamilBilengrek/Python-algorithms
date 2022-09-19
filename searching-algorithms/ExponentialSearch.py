@@ -1,5 +1,5 @@
 # Exponential search
-# Time complexity:
+# Time complexity: O(log n)
 
 
 def binarySearch(arr, el, low, high):
